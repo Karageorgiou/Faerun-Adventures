@@ -369,7 +369,7 @@ Gentleland.SteampunkUI.DemoAndExample.csproj
 Gentleland.Utils.SteampunkUI.csproj
 Library/
 Temp/
-ProjectSettings/
+
 UserSettings/
 Assets/GentlelandSettings
 Assets/GentlelandSettings.meta
