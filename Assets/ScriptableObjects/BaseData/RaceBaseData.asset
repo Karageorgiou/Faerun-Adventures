@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be21d95ca59ef064e88bee84124dedec, type: 3}
+  m_Name: RaceBaseData
+  m_EditorClassIdentifier: 
+  races:
+  - raceType: 0
+    size: 2
+    speed: 30
+    senses: []
+    abilityScoreIncrease:
+    - abilityType: 0
+      abilityScore: 1
+    - abilityType: 1
+      abilityScore: 1
+    - abilityType: 2
+      abilityScore: 1
+    - abilityType: 3
+      abilityScore: 1
+    - abilityType: 4
+      abilityScore: 1
+    - abilityType: 5
+      abilityScore: 1
+    skillProficiencies: 
+    toolProficiencies: 
+    languages: 0100000000000000
+    weaponProficiencies: 
+    features: []
+  - raceType: 1
+    size: 2
+    speed: 30
+    senses:
+    - senseTitle: 
+      senseType: 0
+      senseRange: 60
+    abilityScoreIncrease:
+    - abilityType: 1
+      abilityScore: 2
+    skillProficiencies: 0b000000
+    toolProficiencies: 
+    languages: 0100000003000000
+    weaponProficiencies: 
+    features:
+    - featureTitle: Darkvision
+      featureDescription: You have superior vision in dark and dim conditions. You
+        can see in dim light within 60 feet of you as if it were bright light, and
+        in darkness as if it were dim light. You can't discern color in darkness,
+        only shades of gray.
+    - featureTitle: Fey Ancestry
+      featureDescription: You have advantage on saving throws against being charmed,
+        and magic can't put you to sleep.
+    - featureTitle: Keen Senses
+      featureDescription: You have proficiency in the Perception skill.
+    - featureTitle: Trance
+      featureDescription: Elves do not sleep. Instead they meditate deeply, remaining
+        semi-conscious, for 4 hours a day. The Common word for this meditation is
+        "trance." While meditating, you dream after a fashion; such dreams are actually
+        mental exercises that have become reflexive after years of practice. After
+        resting in this way, you gain the same benefit a human would from 8 hours
+        of sleep.
+  - raceType: 2
+    size: 2
+    speed: 25
+    senses:
+    - senseTitle: 
+      senseType: 0
+      senseRange: 60
+    abilityScoreIncrease:
+    - abilityType: 2
+      abilityScore: 2
+    skillProficiencies: 
+    toolProficiencies: 0e000000020000000b000000
+    languages: 0100000002000000
+    weaponProficiencies: 02000000040000000300000005000000
+    features:
+    - featureTitle: Darkvision
+      featureDescription: You have superior vision in dark and dim conditions. You
+        can see in dim light within 60 feet of you as if it were bright light, and
+        in darkness as if it were dim light. You can't discern color in darkness,
+        only shades of gray.
+    - featureTitle: Dwarven Combat Training
+      featureDescription: You have proficiency with the battleaxe, handaxe, light
+        hammer, and warhammer.
+    - featureTitle: Dwarven Resilience
+      featureDescription: You have advantage on saving throws against poison, and
+        you have resistance against poison damage.
+    - featureTitle: Stonecutting
+      featureDescription: Whenever you make an Intelligence (History) check related
+        to the origin of stonework, you are considered proficient in the History
+        skill and add double your proficiency bonus to the check, instead of your
+        normal proficiency bonus.

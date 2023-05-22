@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce0626e245609f040892b74383161b2e, type: 3}
+  m_Name: Melkor
+  m_EditorClassIdentifier: 
+  isInitialized: 1
+  receivedProperties: 1
+  raceData: {fileID: 11400000, guid: 82e39d5e9b5f9c2468ea95d1c4dc4d06, type: 2}
+  skillData: {fileID: 11400000, guid: 2707faf66c174f140ae91c0845061d40, type: 2}
+  levelData: {fileID: 11400000, guid: 017b05890478d4546beeae31deb0c24b, type: 2}
+  backgroundData: {fileID: 11400000, guid: 47486d698829da74983a07a677923c0b, type: 2}
+  weaponInventoryData: {fileID: 11400000, guid: fde1ade222617c24b82e309e060faee8,
+    type: 2}
+  characterFullName: Melkor
+  characterRace: 0
+  characterClass: 0
+  level: 1
+  currentExperience: 0
+  experienceToNextLevel: 300
+  totalExperienceToNextLevel: 300
+  alignment:
+    LawVsChaos: 0
+    GoodVsEvil: 0
+  background: 2
+  inspiration: 0
+  proficiencyBonus: 2
+  initiative: 0
+  armorClass: 0
+  speed: 30
+  size: 2
+  hitPoints: 10
+  temporaryHitPoints: 0
+  senses: []
+  abilities:
+  - type: 0
+    abilityScore: 11
+    proficiency: 0
+  - type: 1
+    abilityScore: 11
+    proficiency: 0
+  - type: 2
+    abilityScore: 11
+    proficiency: 0
+  - type: 3
+    abilityScore: 11
+    proficiency: 0
+  - type: 4
+    abilityScore: 11
+    proficiency: 0
+  - type: 5
+    abilityScore: 11
+    proficiency: 0
+  skills:
+  - skillTitle: 
+    skillType: 0
+    abilityType: 1
+    proficiency: 0
+  - skillTitle: 
+    skillType: 1
+    abilityType: 4
+    proficiency: 0
+  - skillTitle: 
+    skillType: 2
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 3
+    abilityType: 0
+    proficiency: 1
+  - skillTitle: 
+    skillType: 4
+    abilityType: 5
+    proficiency: 0
+  - skillTitle: 
+    skillType: 5
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 6
+    abilityType: 4
+    proficiency: 1
+  - skillTitle: 
+    skillType: 7
+    abilityType: 5
+    proficiency: 0
+  - skillTitle: 
+    skillType: 8
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 9
+    abilityType: 4
+    proficiency: 0
+  - skillTitle: 
+    skillType: 10
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 11
+    abilityType: 4
+    proficiency: 0
+  - skillTitle: 
+    skillType: 12
+    abilityType: 5
+    proficiency: 0
+  - skillTitle: 
+    skillType: 13
+    abilityType: 5
+    proficiency: 0
+  - skillTitle: 
+    skillType: 14
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 15
+    abilityType: 1
+    proficiency: 0
+  - skillTitle: 
+    skillType: 17
+    abilityType: 4
+    proficiency: 0
+  toolProficiencies: 
+  weaponProficiencies: 
+  languages: 00000000000000000100000000000000
+  features:
+  - featureTitle: Watcher's Eye
+    featureDescription: Your experience in enforcing the law, and dealing with lawbreakers,
+      gives you a feel for local laws and criminals. You can easily find the local
+      outpost of the watch or a similar organization, and just as easily pick out
+      the dens of criminal activity in a community, although you're more likely to
+      be welcome in the former locations rather than the latter.
+  weapons:
+  - weaponTitle: Longsword
+    weaponName: 0
+    weaponType: 4
+    weaponProperty: 1
+    weaponCost: 15
+    weaponWeight: 3
+    weaponAttacks:
+    - title: One Hand
+      damageRoll: 2
+      attackRange: 5
+      damageType: 1
+    - title: Two Hand
+      damageRoll: 3
+      attackRange: 5
+      damageType: 1
+  weaponActions: []

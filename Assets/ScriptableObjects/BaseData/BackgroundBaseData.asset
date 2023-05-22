@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a5ec44dc49e9bc42ae398c776dd87be, type: 3}
+  m_Name: BackgroundBaseData
+  m_EditorClassIdentifier: 
+  backgrounds:
+  - backgroundType: 0
+    skillProficiencies: 060000000e000000
+    toolProficiencies: 
+    languages: 0000000000000000
+    features:
+    - featureTitle: Shelter of the Faithful
+      featureDescription: As an acolyte, you command the respect of those who share
+        your faith, and you can perform the religious ceremonies of your deity. You
+        and your adventuring companions can expect to receive free healing and care
+        at a temple, shrine, or other established presence of your faith, though
+        you must provide any material components needed for spells. Those who share
+        your religion will support you (but only you) at a modest lifestyle.  You
+        might also have ties to a specific temple dedicated to your chosen deity
+        or pantheon, and you have a residence there. This could be the temple where
+        you used to serve, if you remain on good terms with it, or a temple where
+        you have found a new home. While near your temple, you can call upon the
+        priests for assistance, provided the assistance you ask for is not hazardous
+        and you remain in good standing with your temple.
+  - backgroundType: 1
+    skillProficiencies: 040000000f000000
+    toolProficiencies: 1200000013000000
+    languages: 
+    features:
+    - featureTitle: Favorite Schemes
+      featureDescription: Every charlatan has an angle they use in preference to
+        other schemes. Choose a favorite scam.
+    - featureTitle: False Identity
+      featureDescription: You have created a second identity that includes documentation,
+        established acquaintances, and disguises that allow you to assume that persona.
+        Additionally, you can forge documents including official papers and personal
+        letters, as long as you have seen an example of the kind of document or the
+        handwriting you are trying to copy.
+  - backgroundType: 2
+    skillProficiencies: 0300000006000000
+    toolProficiencies: 
+    languages: 0000000000000000
+    features:
+    - featureTitle: Watcher's Eye
+      featureDescription: Your experience in enforcing the law, and dealing with
+        lawbreakers, gives you a feel for local laws and criminals. You can easily
+        find the local outpost of the watch or a similar organization, and just as
+        easily pick out the dens of criminal activity in a community, although you're
+        more likely to be welcome in the former locations rather than the latter.
+  - backgroundType: 3
+    skillProficiencies: 0400000010000000
+    toolProficiencies: 17000000
+    languages: 
+    features:
+    - featureTitle: Criminal Specialty
+      featureDescription: There are many kinds of criminals, and within a thieves'
+        guild or similar criminal organization, individual members have particular
+        specialties. Even criminals who operate outside of such organizations have
+        strong preferences for certain kinds of crimes over others. Choose the role
+        you played in your criminal life.
+    - featureTitle: Criminal Contact
+      featureDescription: You have a reliable and trustworthy contact who acts as
+        your liaison to a network of other criminals. You know how to get messages
+        to and from your contact, even over great distances; specifically, you know
+        the local messengers, corrupt caravan masters, and seedy sailors who can
+        deliver messages for you.
+  - backgroundType: 4
+    skillProficiencies: 0300000007000000
+    toolProficiencies: 
+    languages: 
+    features:
+    - featureTitle: Specialty
+      featureDescription: During your time as a soldier, you had a specific role
+        to play in your unit or army.
+    - featureTitle: Military Rank
+      featureDescription: You have a military rank from your career as a soldier.
+        Soldiers loyal to your former military organization still recognize your
+        authority and influence, and they defer to you if they are of a lower rank.
+        You can invoke your rank to exert influence over other soldiers and requisition
+        simple equipment or horses for temporary use. You can also usually gain access
+        to friendly military encampments and fortresses where your rank is recognized.

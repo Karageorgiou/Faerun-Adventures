@@ -361,3 +361,22 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+# others
+.vsconfig
+Gentleland.SteampunkUI.DemoAndExample.csproj
+Gentleland.Utils.SteampunkUI.csproj
+Library/
+Temp/
+ProjectSettings/
+UserSettings/
+Assets/GentlelandSettings
+Assets/GentlelandSettings.meta
+Assets/Imported
+Assets/Imported.meta
+Assets/_
+Assets/_.meta
+Assets/Splines
+Assets/Splines.meta
+Packages/

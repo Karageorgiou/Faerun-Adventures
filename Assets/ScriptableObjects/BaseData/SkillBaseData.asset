@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0929588e768a7e5478142b423c539959, type: 3}
+  m_Name: SkillBaseData
+  m_EditorClassIdentifier: 
+  skills:
+  - skillType: 0
+    abilityType: 1
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 1
+    abilityType: 4
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 2
+    abilityType: 3
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 3
+    abilityType: 0
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 4
+    abilityType: 5
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 5
+    abilityType: 3
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 6
+    abilityType: 4
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 7
+    abilityType: 5
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 8
+    abilityType: 3
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 9
+    abilityType: 4
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 10
+    abilityType: 3
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 11
+    abilityType: 4
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 12
+    abilityType: 5
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 13
+    abilityType: 5
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 14
+    abilityType: 3
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 15
+    abilityType: 1
+    skillModifier: 0
+    proficiency: 0
+  - skillType: 17
+    abilityType: 4
+    skillModifier: 0
+    proficiency: 0

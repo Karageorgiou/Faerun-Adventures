@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce0626e245609f040892b74383161b2e, type: 3}
+  m_Name: Ragnar
+  m_EditorClassIdentifier: 
+  isInitialized: 1
+  receivedProperties: 1
+  raceData: {fileID: 11400000, guid: 82e39d5e9b5f9c2468ea95d1c4dc4d06, type: 2}
+  skillData: {fileID: 11400000, guid: 2707faf66c174f140ae91c0845061d40, type: 2}
+  levelData: {fileID: 11400000, guid: 017b05890478d4546beeae31deb0c24b, type: 2}
+  backgroundData: {fileID: 11400000, guid: 47486d698829da74983a07a677923c0b, type: 2}
+  weaponInventoryData: {fileID: 11400000, guid: fde1ade222617c24b82e309e060faee8,
+    type: 2}
+  characterFullName: Ragnar
+  characterRace: 2
+  characterClass: 0
+  level: 1
+  currentExperience: 0
+  experienceToNextLevel: 300
+  totalExperienceToNextLevel: 300
+  alignment:
+    LawVsChaos: 0
+    GoodVsEvil: 0
+  background: 4
+  inspiration: 0
+  proficiencyBonus: 2
+  initiative: 0
+  armorClass: 0
+  speed: 25
+  size: 2
+  hitPoints: 10
+  temporaryHitPoints: 0
+  senses:
+  - senseTitle: 
+    senseType: 0
+    senseRange: 60
+  abilities:
+  - type: 0
+    abilityScore: 10
+    proficiency: 0
+  - type: 1
+    abilityScore: 10
+    proficiency: 0
+  - type: 2
+    abilityScore: 12
+    proficiency: 0
+  - type: 3
+    abilityScore: 10
+    proficiency: 0
+  - type: 4
+    abilityScore: 10
+    proficiency: 0
+  - type: 5
+    abilityScore: 10
+    proficiency: 0
+  skills:
+  - skillTitle: 
+    skillType: 0
+    abilityType: 1
+    proficiency: 0
+  - skillTitle: 
+    skillType: 1
+    abilityType: 4
+    proficiency: 0
+  - skillTitle: 
+    skillType: 2
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 3
+    abilityType: 0
+    proficiency: 1
+  - skillTitle: 
+    skillType: 4
+    abilityType: 5
+    proficiency: 0
+  - skillTitle: 
+    skillType: 5
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 6
+    abilityType: 4
+    proficiency: 0
+  - skillTitle: 
+    skillType: 7
+    abilityType: 5
+    proficiency: 1
+  - skillTitle: 
+    skillType: 8
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 9
+    abilityType: 4
+    proficiency: 0
+  - skillTitle: 
+    skillType: 10
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 11
+    abilityType: 4
+    proficiency: 0
+  - skillTitle: 
+    skillType: 12
+    abilityType: 5
+    proficiency: 0
+  - skillTitle: 
+    skillType: 13
+    abilityType: 5
+    proficiency: 0
+  - skillTitle: 
+    skillType: 14
+    abilityType: 3
+    proficiency: 0
+  - skillTitle: 
+    skillType: 15
+    abilityType: 1
+    proficiency: 0
+  - skillTitle: 
+    skillType: 17
+    abilityType: 4
+    proficiency: 0
+  toolProficiencies: 0e000000020000000b000000
+  weaponProficiencies: 02000000040000000300000005000000
+  languages: 0100000002000000
+  features:
+  - featureTitle: Specialty
+    featureDescription: During your time as a soldier, you had a specific role to
+      play in your unit or army.
+  - featureTitle: Military Rank
+    featureDescription: You have a military rank from your career as a soldier. Soldiers
+      loyal to your former military organization still recognize your authority and
+      influence, and they defer to you if they are of a lower rank. You can invoke
+      your rank to exert influence over other soldiers and requisition simple equipment
+      or horses for temporary use. You can also usually gain access to friendly military
+      encampments and fortresses where your rank is recognized.
+  - featureTitle: Darkvision
+    featureDescription: You have superior vision in dark and dim conditions. You
+      can see in dim light within 60 feet of you as if it were bright light, and
+      in darkness as if it were dim light. You can't discern color in darkness, only
+      shades of gray.
+  - featureTitle: Dwarven Combat Training
+    featureDescription: You have proficiency with the battleaxe, handaxe, light hammer,
+      and warhammer.
+  - featureTitle: Dwarven Resilience
+    featureDescription: You have advantage on saving throws against poison, and you
+      have resistance against poison damage.
+  - featureTitle: Stonecutting
+    featureDescription: Whenever you make an Intelligence (History) check related
+      to the origin of stonework, you are considered proficient in the History skill
+      and add double your proficiency bonus to the check, instead of your normal
+      proficiency bonus.
+  weapons:
+  - weaponTitle: Longsword
+    weaponName: 0
+    weaponType: 4
+    weaponProperty: 1
+    weaponCost: 15
+    weaponWeight: 3
+    weaponAttacks:
+    - title: One Hand
+      damageRoll: 2
+      attackRange: 5
+      damageType: 1
+    - title: Two Hand
+      damageRoll: 3
+      attackRange: 5
+      damageType: 1
+  weaponActions: []
