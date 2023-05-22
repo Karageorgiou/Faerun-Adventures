@@ -65,7 +65,6 @@
     <Compile Include="Assets\Scripts\Utils\Mouse\Mouse3D.cs" />
     <Compile Include="Assets\Scripts\5eData\Weapon.cs" />
     <Compile Include="Assets\Scripts\Interfaces\ITooltipTrigger.cs" />
-    <Compile Include="Assets\Splines\SplinesDone\Scripts\SplineDone.cs" />
     <Compile Include="Assets\ThirdPartyPackages\Unity-URP-Outlines-main\Outlines\Scripts\RendererFeatures\ScreenSpaceOutlines.cs" />
     <Compile Include="Assets\Scripts\UI\UI_MoveBar.cs" />
     <Compile Include="Assets\Scripts\UI\UI_PortraitBar.cs" />
@@ -116,8 +115,6 @@
     <Compile Include="Assets\Scripts\Other\DiceSystem.cs" />
     <Compile Include="Assets\Scripts\Utils\UI\ContainerSlot.cs" />
     <Compile Include="Assets\Scripts\UI\UI_Inventory.cs" />
-    <Compile Include="Assets\TooltipScreenSpace\Scripts\TooltipScreenSpaceUI.cs" />
-    <Compile Include="Assets\Splines\SplinesDone\Scripts\SplineMesh.cs" />
     <Compile Include="Assets\Scripts\Other\GridCombatSystem.cs" />
     <Compile Include="Assets\Scripts\Other\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\World\Door\Door.cs" />
@@ -144,7 +141,6 @@
     <Compile Include="Assets\Scripts\Utils\UI\ActionTooltipTrigger.cs" />
     <Compile Include="Assets\Scripts\Other\Pathfinding.cs" />
     <Compile Include="Assets\Scripts\UI\UIManager.cs" />
-    <Compile Include="Assets\Splines\SplinesDone\Scripts\SplineFollower.cs" />
     <Compile Include="Assets\ScriptableObjects\Scripts\ItemDataSO.cs" />
     <Compile Include="Assets\Scripts\UI\UI_PlayerPortrait.cs" />
     <Compile Include="Assets\Scripts\5eData\Util\Level.cs" />
@@ -160,34 +156,34 @@
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\Imported\Flames Of The Phoenix\READ_ME.txt" />
+    <None Include="Assets\ThirdPartyPackages\Flames Of The Phoenix\READ_ME.txt" />
     <None Include="Assets\Imported\Toby Fredson\Dwarven Expedition Pack - Stylized Assets\Materials\1. Main Material Folder.txt" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\Fonts\Environment Maps\cc0.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\Fonts\Environment Maps\cc0.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\ThirdPartyLicenses\RobotoSlab Font License.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\ThirdPartyLicenses\RobotoSlab Font License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\ThirdPartyLicenses\Arvo Font License.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\ThirdPartyLicenses\Arvo Font License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Imported\Toby Fredson\Dwarven Expedition Pack - Stylized Assets\Models\1. Models.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Imported\Toby Fredson\Dwarven Expedition Pack - Stylized Assets\Textures\1. Main Texture Folder.txt" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\Fonts\BebasNeue\OFL.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\Fonts\BebasNeue\OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\Fonts\RobotoSlab\LICENSE.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\Fonts\RobotoSlab\LICENSE.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\Fonts\Arvo\OFL.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\Fonts\Arvo\OFL.txt" />
     <None Include="Assets\Imported\Toby Fredson\Dwarven Expedition Pack - Stylized Assets\1. Read Me!.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Imported\Toby Fredson\Dwarven Expedition Pack - Stylized Assets\Prefabs\1. Main Prefab Folder.txt" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\ThirdPartyLicenses\Environment Maps cc0.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\ThirdPartyLicenses\Environment Maps cc0.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\Imported\Gentleland\SteampunkUI\ThirdPartyLicenses\BebasNeue Font License.txt" />
+    <None Include="Assets\ThirdPartyPackages\Gentleland\SteampunkUI\ThirdPartyLicenses\BebasNeue Font License.txt" />
     <None Include="Assets\Imported\SkySeries Freebie\Hdri setup.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
@@ -863,11 +859,11 @@
     <Reference Include="Unity.Searcher.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
@@ -886,9 +882,6 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
@@ -943,13 +936,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Gentleland.SteampunkUI.DemoAndExample.csproj">
-      <Project>{47905CD3-4FD6-B231-D51A-C90285F542F4}</Project>
-      <Name>Gentleland.SteampunkUI.DemoAndExample</Name>
-    </ProjectReference>
     <ProjectReference Include="Gentleland.Utils.SteampunkUI.csproj">
       <Project>{3C7D181D-EE57-0D8F-53D2-EE1E6E54E486}</Project>
       <Name>Gentleland.Utils.SteampunkUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Gentleland.SteampunkUI.DemoAndExample.csproj">
+      <Project>{47905CD3-4FD6-B231-D51A-C90285F542F4}</Project>
+      <Name>Gentleland.SteampunkUI.DemoAndExample</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
