@@ -364,13 +364,10 @@ FodyWeavers.xsd
 
 
 # others
-.vsconfig
 Gentleland.SteampunkUI.DemoAndExample.csproj
 Gentleland.Utils.SteampunkUI.csproj
 Library/
 Temp/
-
-UserSettings/
 Assets/GentlelandSettings
 Assets/GentlelandSettings.meta
 Assets/Imported
