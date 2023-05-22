@@ -22,8 +22,6 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine.
 2. Open the project in your preferred development environment.
 3. Explore the source code and project assets.
-4. Follow the provided documentation to understand the project structure and implementation details.
-5. Start working on your assigned tasks or contribute to the project as directed by the course instructor.
 
 ## Contributors
 
