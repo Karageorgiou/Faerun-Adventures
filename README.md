@@ -18,7 +18,7 @@ The repository is organized as follows:
 ## Getting Started
 
 To get started with the project, follow these steps:
- 
+
 1. Clone the repository to your local machine.
 2. Open the project in your preferred development environment.
 3. Explore the source code and project assets.
